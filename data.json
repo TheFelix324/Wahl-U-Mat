@@ -1,0 +1,43 @@
+{
+    "theses": {
+        "0": {
+            "l": "Möchtest du das?",
+            "s": "",
+            "x": ""
+        }
+    },
+    "lists": {
+        "0": {
+            "name": "A",
+            "name_x": ""
+        },
+        "1": {
+            "name": "B",
+            "name_x": ""
+        },
+        "2": {
+            "name": "C",
+            "name_x": ""
+        }
+    },
+    "answers": {
+        "0": {
+            "0": {
+                "selection": "a",
+                "statement": ""
+            }
+        },
+        "1": {
+            "0": {
+                "selection": "d",
+                "statement": ""
+            }
+        },
+        "2": {
+            "0": {
+                "selection": "d",
+                "statement": ""
+            }
+        }
+    }
+}
