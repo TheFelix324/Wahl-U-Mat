@@ -1,22 +1,32 @@
 {
 	"theses": {
 		"0": {
-			"l": "Möchtest du das?",
+			"l": "Mehr Saft",
+			"s": "",
+			"x": ""
+		},
+		"1": {
+			"l": "Mehr Tee",
+			"s": "",
+			"x": ""
+		},
+		"2": {
+			"l": "Mehr Kuchen",
 			"s": "",
 			"x": ""
 		}
 	},
 	"lists": {
 		"0": {
-			"name": "A",
+			"name": "Partei A",
 			"name_x": "A"
 		},
 		"1": {
-			"name": "B",
+			"name": "Partei B",
 			"name_x": "B"
 		},
 		"2": {
-			"name": "C",
+			"name": "Partei C",
 			"name_x": "C"
 		}
 	},
@@ -24,19 +34,43 @@
 		"0": {
 			"0": {
 				"selection": "a",
-				"statement": "Gut"
+				"statement": "Finden wir gut"
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Ne"
+			},
+			"2": {
+				"selection": "d",
+				"statement": "egal"
 			}
 		},
 		"1": {
 			"0": {
 				"selection": "c",
-				"statement": "Schlecht"
+				"statement": "Nich so"
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Ja"
+			},
+			"2": {
+				"selection": "a",
+				"statement": "ja"
 			}
 		},
 		"2": {
 			"0": {
 				"selection": "b",
-				"statement": "Neutral"
+				"statement": "egal"
+			},
+			"1": {
+				"selection": "b",
+				"statement": "egal"
+			},
+			"2": {
+				"selection": "b",
+				"statement": "egal"
 			}
 		}
 	}
