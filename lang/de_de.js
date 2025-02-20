@@ -52,12 +52,14 @@ var T = /*#__PURE__*/ function () {
             <p>Die auf dieser Website erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. \
             Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung \
             au&szlig;erhalb der Grenzen des Urheberrechts bed&uuml;rfen der schriftlichen Zustimmung \
-            des jeweiligen Autors bzw. Erstellers.</p>';
+            des jeweiligen Autors bzw. Erstellers.</p>\
+            <h5>Weiteres:</h5>\
+            <p>Dies ist keine offizielle Seite des Uhlandygmnasiums, sondern wurde von einem Schüler erstellt</p>';
 
         this.btn_qa_modal_close = "Schließen";
         this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
         this.btn_swype_info_ok = "OK";
-        this.start_subtitle = "Der Wahl-U-Mat ist ein Wahlpositions&shy;vergleichswerkzeug für die Schule als Staat Partei Wahl.";
+        this.start_subtitle = "Der Wahl-U-Mat ist ein Wahlpositions&shy;vergleichswerkzeug für die Schule als Staat Partei Wahl des Uhlandgymnasiums.";
         this.start_explanatory_text = "<p>Der Wahl-U-Mat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur Wahl\
                             antreten.\
                         </p>\
