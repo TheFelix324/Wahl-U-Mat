@@ -14,71 +14,66 @@ function () {
 
     this.page_title = "Wahl-U-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = <h4>Impressum</h4>\
-          <h5>Angaben gemäß § 5 TMG:</h5>\
-          <p>Felix Hahn<br>\
-          Zu den Linden 10/1<br>\
-          72379 Hechingen</p>\
-          <h5>Kontakt:</h5>\
-          <p>E-Mail: felix.hahn-ffm&#64;outlook.de</p>\
-          <h5>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h5>\
-          <p>Felix Hahn<br>\
-          Zu den Linden 10/1<br>\
-          72379 Hechingen</p>\
-          <h5>Haftungsausschluss:</h5>\
-          <p>Die Inhalte dieser Website wurden mit gr&ouml;&szlig;ter Sorgfalt erstellt. \
-          F&uuml;r die Richtigkeit, Vollst&auml;ndigkeit und Aktualit&auml;t der Inhalte \
-          k&ouml;nnen wir jedoch keine Gew&auml;hr &uuml;bernehmen.</p>\
-          <h5>Haftung f&uuml;r Links:</h5>\
-          <p>Diese Website enth&auml;lt m&ouml;glicherweise Links zu externen Websites Dritter, \
-          auf deren Inhalte wir keinen Einfluss haben. Deshalb k&ouml;nnen wir f&uuml;r diese \
-          fremden Inhalte auch keine Gew&auml;hr &uuml;bernehmen.</p>\
-          <h5>Urheberrecht:</h5>\
-          <p>Die auf dieser Website erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. \
-          Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung \
-          au&szlig;erhalb der Grenzen des Urheberrechts bed&uuml;rfen der schriftlichen Zustimmung \
-          des jeweiligen Autors bzw. Erstellers.</p>;
+this.qa_modal_body = '<h4>Impressum</h4>\
+    <h5>Angaben gemäß § 5 TMG:</h5>\
+    <p>Felix Hahn<br>\
+    Zu den Linden 10/1<br>\
+    72379 Hechingen</p>\
+    <h5>Kontakt:</h5>\
+    <p>E-Mail: felix.hahn-ffm&#64;outlook.de</p>\
+    <h5>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h5>\
+    <p>Felix Hahn<br>\
+    Zu den Linden 10/1<br>\
+    72379 Hechingen</p>\
+    <h5>Haftungsausschluss:</h5>\
+    <p>Die Inhalte dieser Website wurden mit gr&ouml;&szlig;ter Sorgfalt erstellt. \
+    F&uuml;r die Richtigkeit, Vollst&auml;ndigkeit und Aktualit&auml;t der Inhalte \
+    k&ouml;nnen wir jedoch keine Gew&auml;hr &uuml;bernehmen.</p>\
+    <h5>Haftung f&uuml;r Links:</h5>\
+    <p>Diese Website enth&auml;lt m&ouml;glicherweise Links zu externen Websites Dritter, \
+    auf deren Inhalte wir keinen Einfluss haben. Deshalb k&ouml;nnen wir f&uuml;r diese \
+    fremden Inhalte auch keine Gew&auml;hr &uuml;bernehmen.</p>\
+    <h5>Urheberrecht:</h5>\
+    <p>Die auf dieser Website erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. \
+    Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung \
+    au&szlig;erhalb der Grenzen des Urheberrechts bed&uuml;rfen der schriftlichen Zustimmung \
+    des jeweiligen Autors bzw. Erstellers.</p>\
+\
+    <h4>Wer hat die Thesen erarbeitet?</h4>\
+    <p>Lorem Ipsum.</p>\
+\
+    <h4>Woher stammen die Positionen der Gruppen?</h4>\
+    <p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
+    Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz\
+    erläutern.</p>\
+    <p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
+\
+    <h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
+    <p>Lorem Ipsum.</p>\
+\
+    <h4>Wie werden die Punkte berechnet?</h4>\
+    <p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
+    <ul>\
+        <li>Stimmt die Antwort überein, werden der Gruppe 2 Punkte gutgeschrieben;</li>\
+        <li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Gruppe 1 Punkt gutgeschrieben;</li>\
+        <li>Sind die Antworten entgegengesetzt oder hat eine Gruppe eine These nicht beantwortet, gibt es keine Punkte für die Gruppe.</li>\
+    </ul>\
+    <p>Eine These, die du übersprungen hast, wird nicht gewertet. Die erreichbare Höchstpunktzahl wird dadurch geringer.</p>\
+    <p>Eine These, die doppelt gewichtet werden soll, wird doppelt gewichtet, das heißt, für sie wird die doppelte Punktzahl\
+    gutgeschrieben (0/2/4). Dadurch können insgesamt mehr Punkte erreicht werden.</p>\
+\
+    <h4>Werden meine Antworten gespeichert?</h4>\
+    <p>Nein. Alles läuft vollständig in deinem Browser ab.</p>\
+\
+    <h4>Ich habe einen inhaltlichen Fehler gefunden!</h4>\
+    <p>Gib uns gern Bescheid, wir sehen uns das an. Wer „wir“ sind, steht oben auf dieser Seite.</p>\
+\
+    <h4>Wer hat den Mahlowat programmiert?</h4>\
+    <p>Das steht <a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
+\
+    <h4>Ich habe einen Programmierfehler gefunden!</h4>\
+    <p>Oh nein! Wenn du den Fehler <a href="https://github.com/hszemi/mahlowat">meldest</a>, wird er vielleicht behoben.</p>';
 
-\
-					<h4>Wer hat die Thesen erarbeitet?</h4>\
-					<p>Lorem Ipsum.</p>\
-\
-					<h4>Woher stammen die Positionen der Gruppen?</h4>\
-					<p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
-						Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz\
-						erläutern.\
-					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
-\
-					<h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-					<p>Lorem Ipsum.</p>\
-\
-					<h4>Wie werden die Punkte berechnet?</h4>\
-					<p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
-					<ul>\
-						<li>Stimmt die Antwort überein, werden der Gruppe 2 Punkte gutgeschrieben;</li>\
-						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Gruppe 1 Punkt gutgeschrieben;</li>\
-						<li>Sind die Antworten entgegengesetzt oder hat eine Gruppe eine These nicht beantwortet, gibt es keine Punkte für die\
-							Gruppe.\
-						</li>\
-					</ul>\
-					<p>Eine These, die du übersprungen hast, wird nicht gewertet. Die erreichbare Höchstpunktzahl wird dadurch geringer.</p>\
-					<p>Eine These, die doppelt gewichtet werden soll, wird doppelt gewichtet, das heißt, für sie wird die doppelte Punktzahl\
-						gutgeschrieben (0/2/4). Dadurch können insgesamt mehr Punkte erreicht werden.</p>\
-\
-					<h4>Werden meine Antworten gespeichert?</h4>\
-					<p>Nein. Alles läuft vollständig in deinem Browser ab.</p>\
-\
-					<h4>Ich habe einen inhaltlichen Fehler gefunden!</h4>\
-					<p>Gib uns gern Bescheid, wir sehen uns das an. Wer „wir“ sind, steht oben auf dieser Seite.</p>\
-\
-					<h4>Wer hat den Mahlowat programmiert?</h4>\
-					<p>Das steht\
-						<a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
-\
-					<h4>Ich habe einen Programmierfehler gefunden!</h4>\
-					<p>Oh nein! Wenn du den Fehler\
-						<a href="https://github.com/hszemi/mahlowat">meldest</a>, wird er vielleicht behoben.</p>';
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
