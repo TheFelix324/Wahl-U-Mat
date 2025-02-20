@@ -35,7 +35,7 @@ var T = /*#__PURE__*/ function () {
             Zu den Linden 10/1<br>\
             72379 Hechingen</p>\
             <h5>Kontakt:</h5>\
-            <p>E-Mail: felix.hahn-ffm&#64;outlook.de</p>\
+            <p>E-Mail: felix.hahn-ffm[&#64;]outlook.de</p>\
             <h5>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h5>\
             <p>Felix Hahn<br>\
             Zu den Linden 10/1<br>\
