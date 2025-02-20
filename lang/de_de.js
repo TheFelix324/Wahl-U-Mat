@@ -54,7 +54,7 @@ var T = /*#__PURE__*/ function () {
             au&szlig;erhalb der Grenzen des Urheberrechts bed&uuml;rfen der schriftlichen Zustimmung \
             des jeweiligen Autors bzw. Erstellers.</p>\
             <h5>Weiteres:</h5>\
-            <p>Dies ist keine offizielle Seite des Uhlandygmnasiums, sondern wurde von einem Schüler erstellt</p>';
+            <p>Dies ist keine offizielle Seite des Uhlandygmnasiums. Sondern wurde von einem Schüler erstellt.</p>';
 
         this.btn_qa_modal_close = "Schließen";
         this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
