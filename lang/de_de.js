@@ -12,10 +12,33 @@ function () {
   function T() {
     _classCallCheck(this, T);
 
-    this.page_title = "Mahlowat";
+    this.page_title = "Wahl-U-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
-					<p>Lorem Ipsum.</p>\
+    this.qa_modal_body = <h4>Impressum</h4>\
+          <h5>Angaben gemäß § 5 TMG:</h5>\
+          <p>Felix Hahn<br>\
+          Zu den Linden 10/1<br>\
+          72379 Hechingen</p>\
+          <h5>Kontakt:</h5>\
+          <p>E-Mail: felix.hahn-ffm&#64;outlook.de</p>\
+          <h5>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h5>\
+          <p>Felix Hahn<br>\
+          Zu den Linden 10/1<br>\
+          72379 Hechingen</p>\
+          <h5>Haftungsausschluss:</h5>\
+          <p>Die Inhalte dieser Website wurden mit gr&ouml;&szlig;ter Sorgfalt erstellt. \
+          F&uuml;r die Richtigkeit, Vollst&auml;ndigkeit und Aktualit&auml;t der Inhalte \
+          k&ouml;nnen wir jedoch keine Gew&auml;hr &uuml;bernehmen.</p>\
+          <h5>Haftung f&uuml;r Links:</h5>\
+          <p>Diese Website enth&auml;lt m&ouml;glicherweise Links zu externen Websites Dritter, \
+          auf deren Inhalte wir keinen Einfluss haben. Deshalb k&ouml;nnen wir f&uuml;r diese \
+          fremden Inhalte auch keine Gew&auml;hr &uuml;bernehmen.</p>\
+          <h5>Urheberrecht:</h5>\
+          <p>Die auf dieser Website erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. \
+          Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung \
+          au&szlig;erhalb der Grenzen des Urheberrechts bed&uuml;rfen der schriftlichen Zustimmung \
+          des jeweiligen Autors bzw. Erstellers.</p>;
+
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
 					<p>Lorem Ipsum.</p>\
