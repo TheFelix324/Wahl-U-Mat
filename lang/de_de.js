@@ -57,7 +57,7 @@ var T = /*#__PURE__*/ function () {
         this.btn_qa_modal_close = "Schließen";
         this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
         this.btn_swype_info_ok = "OK";
-        this.start_subtitle = "Der Wahl-U-Mat ist ein Wahlpositions&shy;vergleichswerkzeug.";
+        this.start_subtitle = "Der Wahl-U-Mat ist ein Wahlpositions&shy;vergleichswerkzeug für die Schule als Staat Partei Wahl.";
         this.start_explanatory_text = "<p>Der Wahl-U-Mat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur Wahl\
                             antreten.\
                         </p>\
