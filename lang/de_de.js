@@ -40,16 +40,16 @@ this.qa_modal_body = '<h4>Impressum</h4>\
     des jeweiligen Autors bzw. Erstellers.</p>\
 \
     <h4>Wer hat die Thesen erarbeitet?</h4>\
-    <p>Lorem Ipsum.</p>\
+    <p>- Felix Hahn</p>\
 \
     <h4>Woher stammen die Positionen der Gruppen?</h4>\
     <p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
-    Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz\
+    Positionierung (Zustimmung/Neutral/Ablehnung) konnten sie ihre Position auch in einem kurzen Absatz\
     erläutern.</p>\
     <p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
 \
     <h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-    <p>Lorem Ipsum.</p>\
+    <p>Schule als Staat Wahl der Parteien</p>\
 \
     <h4>Wie werden die Punkte berechnet?</h4>\
     <p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
@@ -65,14 +65,9 @@ this.qa_modal_body = '<h4>Impressum</h4>\
     <h4>Werden meine Antworten gespeichert?</h4>\
     <p>Nein. Alles läuft vollständig in deinem Browser ab.</p>\
 \
-    <h4>Ich habe einen inhaltlichen Fehler gefunden!</h4>\
-    <p>Gib uns gern Bescheid, wir sehen uns das an. Wer „wir“ sind, steht oben auf dieser Seite.</p>\
-\
     <h4>Wer hat den Mahlowat programmiert?</h4>\
     <p>Das steht <a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
 \
-    <h4>Ich habe einen Programmierfehler gefunden!</h4>\
-    <p>Oh nein! Wenn du den Fehler <a href="https://github.com/hszemi/mahlowat">meldest</a>, wird er vielleicht behoben.</p>';
 
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
