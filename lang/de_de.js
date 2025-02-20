@@ -14,7 +14,7 @@ function () {
 
     this.page_title = "Wahl-U-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
-this.qa_modal_body = '<h4>Impressum</h4>\
+    this.qa_modal_body = '<h4>Impressum</h4>\
     <h5>Angaben gemäß § 5 TMG:</h5>\
     <p>Felix Hahn<br>\
     Zu den Linden 10/1<br>\
@@ -72,12 +72,12 @@ this.qa_modal_body = '<h4>Impressum</h4>\
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Der Mahlowat ist ein Wahlpositions&shy;vergleichswerkzeug.";
-    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur $WAHL\
+    this.start_subtitle = "Der Wahl-U-Mat ist ein Wahlpositions&shy;vergleichswerkzeug.";
+    this.start_explanatory_text = "<p>Der Wahl-U-Mat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur Wahl\
 						antreten.\
 					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";
-    this.btn_start = "Mahlowat starten!";
+					<p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>";
+    this.btn_start = "Wahl-U-Mat starten!";
     this.btn_start_show_qa = "Fragen &amp; Antworten";
     this.btn_toggle_thesis_more_text = "Erläuterung";
     this.btn_important = "These doppelt gewichten";
