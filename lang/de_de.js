@@ -26,7 +26,7 @@ var T = /*#__PURE__*/ function () {
     function T() {
         _classCallCheck(this, T);
 
-        this.page_title = "Wahl-U-Mat";
+        this.page_title = "Wahl-UG-Mat";
         this.qa_modal_title = "Fragen &amp; Antworten";
         
         this.qa_modal_body = '<h4>Impressum</h4>\
@@ -59,12 +59,12 @@ var T = /*#__PURE__*/ function () {
         this.btn_qa_modal_close = "Schließen";
         this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
         this.btn_swype_info_ok = "OK";
-        this.start_subtitle = "Der Wahl-U-Mat ist ein Wahlpositions&shy;vergleichswerkzeug für die Schule als Staat Partei Wahl des Uhlandgymnasiums.";
-        this.start_explanatory_text = "<p>Der Wahl-U-Mat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur Wahl\
+        this.start_subtitle = "Der Wahl-UG-Mat ist ein Wahlpositions&shy;vergleichswerkzeug für die Schule als Staat Partei Wahl des Uhlandgymnasiums.";
+        this.start_explanatory_text = "<p>Der Wahl-UG-Mat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur Wahl\
                             antreten.\
                         </p>\
                         <p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>";
-        this.btn_start = "Wahl-U-Mat starten!";
+        this.btn_start = "Wahl-UG-Mat starten!";
         this.btn_start_show_qa = "Fragen &amp; Antworten";
         this.btn_toggle_thesis_more_text = "Erläuterung";
         this.btn_important = "These doppelt gewichten";
