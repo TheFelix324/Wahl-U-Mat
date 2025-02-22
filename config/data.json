@@ -1,77 +1,124 @@
 {
-	"theses": {
-		"0": {
-			"l": "Mehr Saft",
-			"s": "",
-			"x": ""
-		},
-		"1": {
-			"l": "Mehr Tee",
-			"s": "",
-			"x": ""
-		},
-		"2": {
-			"l": "Mehr Kuchen",
-			"s": "",
-			"x": ""
-		}
-	},
-	"lists": {
-		"0": {
-			"name": "Partei A",
-			"name_x": "A"
-		},
-		"1": {
-			"name": "Partei B",
-			"name_x": "B"
-		},
-		"2": {
-			"name": "Partei C",
-			"name_x": "C"
-		}
-	},
-	"answers": {
-		"0": {
-			"0": {
-				"selection": "a",
-				"statement": "Finden wir gut"
-			},
-			"1": {
-				"selection": "c",
-				"statement": "Ne"
-			},
-			"2": {
-				"selection": "d",
-				"statement": "egal"
-			}
-		},
-		"1": {
-			"0": {
-				"selection": "c",
-				"statement": "Nich so"
-			},
-			"1": {
-				"selection": "a",
-				"statement": "Ja"
-			},
-			"2": {
-				"selection": "a",
-				"statement": "ja"
-			}
-		},
-		"2": {
-			"0": {
-				"selection": "b",
-				"statement": "egal"
-			},
-			"1": {
-				"selection": "b",
-				"statement": "egal"
-			},
-			"2": {
-				"selection": "b",
-				"statement": "egal"
-			}
-		}
-	}
+    "theses": {
+        "0": {
+            "l": "Mindestlohn",
+            "s": "",
+            "x": "Es soll einen Mindestlohn geben, der so hoch ist, dass sich jeder zwei warme Mahlzeiten pro Tag und Freizeitvergnügung leisten kann."
+        },
+        "1": {
+            "l": "Mehrere Jobs",
+            "s": "",
+            "x": "Bürgerinnen und Bürger sollten das Recht haben, mehrere Jobs gleichzeitig auszuüben."
+        },
+        "2": {
+            "l": "Miete",
+            "s": "",
+            "x": "Die Miete für Betriebe sollte gesenkt werden, um Unternehmensgründungen zu erleichtern."
+        },
+        "3": {
+            "l": "Kostenloses Internet",
+            "s": "",
+            "x": "Der Staat sollte kostenloses Internet für alle Bürger zur Verfügung stellen."
+        },
+        "4": {
+            "l": "Gaming Raum",
+            "s": "",
+            "x": "Es soll einen Gaming-Raum geben."
+        },
+        "5": {
+            "l": "Ausweis",
+            "s": "",
+            "x": "Bürgerinnen und Bürgern soll der Ausweis bei Verlust günstiger oder kostenlos ersetzt werden."
+        },
+        "6": {
+            "l": "Freizeitangebote",
+            "s": "",
+            "x": "Der Staat soll Freizeitangebote fördern."
+        },
+        "7": {
+            "l": "Wirtschaftsordnung",
+            "s": "",
+            "x": "Die Wirtschaftsordnung soll eher kommunistisch statt kapitalistisch sein."
+        }
+    },
+    "lists": {
+        "0": {
+            "name": "Proletarisch Demokratische Freiheitspartei",
+            "name_x": "PDF"
+        },
+        "1": {
+            "name": "Zukunfts Partei Uhtopia",
+            "name_x": "ZPU"
+        }
+    },
+    "answers": {
+        "0": {
+            "0": {
+                "selection": "a",
+                "statement": "Dies ist die Wahlkampfforderung der PDF. Sie leitet sich direkt aus den beiden wichtigsten Aspekten unseres Staates ab. 1) Sozialgesetzgebung und 2) Kulturförderung. Wer Vollzeit arbeitet (von 8:00 bis 15:00) sollte den  Staat in der verbleibenden Zeit  genießen können. Alles andere führt zu Langeweile, sozialen Spannungen und wäre außerdem ungerecht."
+            },
+            "1": {
+                "selection": "a",
+                "statement": "Das Recht auf Freiheit in der Berufswahl ist aus gutem Grund in unserer Verfassung verankert. Ebenso wichtig\nist der PDF auch das damit einhergehende Streikrecht und Recht auf betriebliche Mitbestimmung. Aber auch das Gebot des Schutzes vor Zwangsarbeit. Es sollte also allen möglich sein, ihren Job zu wechseln, wenn sie wollen,\naber niemand sollte zB. aus finanzieller Not gezwungen sein, unfreiwillig in zwei Jobs gleichzeitig zu arbeiten."
+            },
+            "2": {
+                "selection": "a",
+                "statement": "Die PDF ist dafür, keine Mieten zu erheben. Das Land gehört dem Volk und das Volk nutzt es, verwaltet durch die  1. Volkskammer und die genossenschaftlichen Betriebe. Die soziale Gerechtigkeit und Handlungsfähigkeit des Staates wird stattdessen durch eine Besteuerung, die Lebensmittelhändler und kleine Unternehmen bevorzugt gewährleistet."
+            },
+            "3": {
+                "selection": "a",
+                "statement": "Gute und faire Infrastruktur ist unerlässlich, um eine demokratische Partizipation aller Bürger*innen zu  gewährleisten. Das Schüler*innen-W-lan existiert bereits und sollte genutzt werden."
+            },
+            "4": {
+                "selection": "b",
+                "statement": "Es liegt in der Zuständigkeit der Bürger*innen, so etwas durch Betriebsgründung zu gestallten. Sollte das der Wille des Volkes sein, so wird die PDF ihn nach Kräften unterstützen."
+            },
+            "5": {
+                "selection": "c",
+                "statement": "Die organisatorische Machbarkeit des Neudrucks erscheint uns nicht realisierbar. Ein staatliches Fundbüro wäre denkbar. Außerdem ist die PDF gegen einen Polizeistaat, in dem ein Ausweißverlust ernsthafte  Probleme bereitet."
+            },
+            "6": {
+                "selection": "a",
+                "statement": "Kulturförderung steht an 5. Stelle im PDF Parteiprogramm. Es ist uns wichtig, dass sich alle Bürger*innen in und außerhalb ihrer Arbeit selbst verwirklichen können und wir gemeinsam einen tollen Staat füreinander gestallten."
+            },
+            "7": {
+                "selection": "a",
+                "statement": "Wir, die Proletarisch Demokratische Freiheitspartei sind der festen Überzeugung, dass wir alle gemeinsam mehr erreichen können, als gegeneinander. Darum wollen wir einen Staat gestallten, in dem die unerschütterliche Solidarität aller Menschen untereinander an erster Stelle steht und niemand um seinen gerechten Anteil am Gemeinwohl betrogen wird."
+            }
+        },
+        "1": {
+            "0": {
+                "selection": "a",
+                "statement": ""
+            },
+            "1": {
+                "selection": "a",
+                "statement": ""
+            },
+            "2": {
+                "selection": "b",
+                "statement": ""
+            },
+            "3": {
+                "selection": "a",
+                "statement": ""
+            },
+            "4": {
+                "selection": "a",
+                "statement": ""
+            },
+            "5": {
+                "selection": "a",
+                "statement": ""
+            },
+            "6": {
+                "selection": "a",
+                "statement": ""
+            },
+            "7": {
+                "selection": "b",
+                "statement": ""
+            }
+        }
+    }
 }
