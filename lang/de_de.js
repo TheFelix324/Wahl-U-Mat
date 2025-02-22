@@ -64,7 +64,7 @@ var T = /*#__PURE__*/ function () {
                             antreten.\
                         </p>\
                         <p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>";
-        this.btn_start = "Wahl-U-Mat starten!";
+        this.btn_start = "Wahl-UG-Mat starten!";
         this.btn_start_show_qa = "Fragen &amp; Antworten";
         this.btn_toggle_thesis_more_text = "Erläuterung";
         this.btn_important = "These doppelt gewichten";
