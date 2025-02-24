@@ -1,124 +1,200 @@
 {
-    "theses": {
-        "0": {
-            "l": "Mindestlohn",
-            "s": "",
-            "x": "Es soll einen Mindestlohn geben, der so hoch ist, dass sich jeder zwei warme Mahlzeiten pro Tag und Freizeitvergnügung leisten kann."
-        },
-        "1": {
-            "l": "Mehrere Jobs",
-            "s": "",
-            "x": "Bürgerinnen und Bürger sollten das Recht haben, mehrere Jobs gleichzeitig auszuüben."
-        },
-        "2": {
-            "l": "Miete",
-            "s": "",
-            "x": "Die Miete für Betriebe sollte gesenkt werden, um Unternehmensgründungen zu erleichtern."
-        },
-        "3": {
-            "l": "Kostenloses Internet",
-            "s": "",
-            "x": "Der Staat sollte kostenloses Internet für alle Bürger zur Verfügung stellen."
-        },
-        "4": {
-            "l": "Gaming Raum",
-            "s": "",
-            "x": "Es soll einen Gaming-Raum geben."
-        },
-        "5": {
-            "l": "Ausweis",
-            "s": "",
-            "x": "Bürgerinnen und Bürgern soll der Ausweis bei Verlust günstiger oder kostenlos ersetzt werden."
-        },
-        "6": {
-            "l": "Freizeitangebote",
-            "s": "",
-            "x": "Der Staat soll Freizeitangebote fördern."
-        },
-        "7": {
-            "l": "Wirtschaftsordnung",
-            "s": "",
-            "x": "Die Wirtschaftsordnung soll eher kommunistisch statt kapitalistisch sein."
-        }
-    },
-    "lists": {
-        "0": {
-            "name": "Proletarisch Demokratische Freiheitspartei",
-            "name_x": "PDF"
-        },
-        "1": {
-            "name": "Zukunfts Partei Uhtopia",
-            "name_x": "ZPU"
-        }
-    },
-    "answers": {
-        "0": {
-            "0": {
-                "selection": "a",
-                "statement": "Dies ist die Wahlkampfforderung der PDF. Sie leitet sich direkt aus den beiden wichtigsten Aspekten unseres Staates ab. 1) Sozialgesetzgebung und 2) Kulturförderung. Wer Vollzeit arbeitet (von 8:00 bis 15:00) sollte den  Staat in der verbleibenden Zeit  genießen können. Alles andere führt zu Langeweile, sozialen Spannungen und wäre außerdem ungerecht."
-            },
-            "1": {
-                "selection": "a",
-                "statement": "Das Recht auf Freiheit in der Berufswahl ist aus gutem Grund in unserer Verfassung verankert. Ebenso wichtig\nist der PDF auch das damit einhergehende Streikrecht und Recht auf betriebliche Mitbestimmung. Aber auch das Gebot des Schutzes vor Zwangsarbeit. Es sollte also allen möglich sein, ihren Job zu wechseln, wenn sie wollen,\naber niemand sollte zB. aus finanzieller Not gezwungen sein, unfreiwillig in zwei Jobs gleichzeitig zu arbeiten."
-            },
-            "2": {
-                "selection": "a",
-                "statement": "Die PDF ist dafür, keine Mieten zu erheben. Das Land gehört dem Volk und das Volk nutzt es, verwaltet durch die  1. Volkskammer und die genossenschaftlichen Betriebe. Die soziale Gerechtigkeit und Handlungsfähigkeit des Staates wird stattdessen durch eine Besteuerung, die Lebensmittelhändler und kleine Unternehmen bevorzugt gewährleistet."
-            },
-            "3": {
-                "selection": "a",
-                "statement": "Gute und faire Infrastruktur ist unerlässlich, um eine demokratische Partizipation aller Bürger*innen zu  gewährleisten. Das Schüler*innen-W-lan existiert bereits und sollte genutzt werden."
-            },
-            "4": {
-                "selection": "b",
-                "statement": "Es liegt in der Zuständigkeit der Bürger*innen, so etwas durch Betriebsgründung zu gestallten. Sollte das der Wille des Volkes sein, so wird die PDF ihn nach Kräften unterstützen."
-            },
-            "5": {
-                "selection": "c",
-                "statement": "Die organisatorische Machbarkeit des Neudrucks erscheint uns nicht realisierbar. Ein staatliches Fundbüro wäre denkbar. Außerdem ist die PDF gegen einen Polizeistaat, in dem ein Ausweißverlust ernsthafte  Probleme bereitet."
-            },
-            "6": {
-                "selection": "a",
-                "statement": "Kulturförderung steht an 5. Stelle im PDF Parteiprogramm. Es ist uns wichtig, dass sich alle Bürger*innen in und außerhalb ihrer Arbeit selbst verwirklichen können und wir gemeinsam einen tollen Staat füreinander gestallten."
-            },
-            "7": {
-                "selection": "a",
-                "statement": "Wir, die Proletarisch Demokratische Freiheitspartei sind der festen Überzeugung, dass wir alle gemeinsam mehr erreichen können, als gegeneinander. Darum wollen wir einen Staat gestallten, in dem die unerschütterliche Solidarität aller Menschen untereinander an erster Stelle steht und niemand um seinen gerechten Anteil am Gemeinwohl betrogen wird."
-            }
-        },
-        "1": {
-            "0": {
-                "selection": "a",
-                "statement": ""
-            },
-            "1": {
-                "selection": "a",
-                "statement": ""
-            },
-            "2": {
-                "selection": "b",
-                "statement": ""
-            },
-            "3": {
-                "selection": "a",
-                "statement": ""
-            },
-            "4": {
-                "selection": "a",
-                "statement": ""
-            },
-            "5": {
-                "selection": "a",
-                "statement": ""
-            },
-            "6": {
-                "selection": "a",
-                "statement": ""
-            },
-            "7": {
-                "selection": "b",
-                "statement": ""
-            }
-        }
-    }
+	"theses": {
+		"0": {
+			"l": "Es soll einen Mindestlohn geben, der so hoch ist, dass sich jeder zwei warme Mahlzeiten pro Tag und Freizeitvergnügung leisten kann.",
+			"s": "Mindestlohn",
+			"x": ""
+		},
+		"1": {
+			"l": "Bürgerinnen und Bürger sollten das Recht haben, mehrere Jobs gleichzeitig auszuüben.",
+			"s": "Mehrere Jobs",
+			"x": ""
+		},
+		"2": {
+			"l": "Die Miete für Betriebe sollte gesenkt werden, um Unternehmensgründungen zu erleichtern.",
+			"s": "Miete",
+			"x": ""
+		},
+		"3": {
+			"l": "Der Staat sollte kostenloses Internet für alle Bürger zur Verfügung stellen.",
+			"s": "Kostenloses Internet",
+			"x": ""
+		},
+		"4": {
+			"l": "Es soll einen Gaming-Raum geben.",
+			"s": "Gaming Raum",
+			"x": ""
+		},
+		"5": {
+			"l": "Bürgerinnen und Bürgern soll der Ausweis bei Verlust günstiger oder kostenlos ersetzt werden.",
+			"s": "Ausweis",
+			"x": ""
+		},
+		"6": {
+			"l": "Der Staat soll Freizeitangebote fördern.",
+			"s": "Freizeitangebote",
+			"x": ""
+		},
+		"7": {
+			"l": "Die Wirtschaftsordnung soll eher kommunistisch statt kapitalistisch sein.",
+			"s": "Wirtschaftsordnung",
+			"x": ""
+		}
+	},
+	"lists": {
+		"0": {
+			"name": "Proletarisch Demokratische Freiheitspartei",
+			"name_x": "PDF"
+		},
+		"1": {
+			"name": "Zukunfts Partei Uhtopia",
+			"name_x": "ZPU"
+		},
+		"2": {
+			"name": "Partei für Entfaltung und Gleichberechtigung",
+			"name_x": "EUG"
+		},
+		"3": {
+			"name": "Sehr gute Partei",
+			"name_x": "SGP"
+		}
+	},
+	"answers": {
+		"0": {
+			"0": {
+				"selection": "a",
+				"statement": "Dies ist die Wahlkampfforderung der PDF. Sie leitet sich direkt aus den beiden wichtigsten Aspekten unseres Staates ab. 1) Sozialgesetzgebung und 2) Kulturförderung. Wer Vollzeit arbeitet (von 8:00 bis 15:00) sollte den  Staat in der verbleibenden Zeit  genießen können. Alles andere führt zu Langeweile, sozialen Spannungen und wäre außerdem ungerecht."
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Das Recht auf Freiheit in der Berufswahl ist aus gutem Grund in unserer Verfassung verankert. Ebenso wichtig\nist der PDF auch das damit einhergehende Streikrecht und Recht auf betriebliche Mitbestimmung. Aber auch das Gebot des Schutzes vor Zwangsarbeit. Es sollte also allen möglich sein, ihren Job zu wechseln, wenn sie wollen,\naber niemand sollte zB. aus finanzieller Not gezwungen sein, unfreiwillig in zwei Jobs gleichzeitig zu arbeiten."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Die PDF ist dafür, keine Mieten zu erheben. Das Land gehört dem Volk und das Volk nutzt es, verwaltet durch die  1. Volkskammer und die genossenschaftlichen Betriebe. Die soziale Gerechtigkeit und Handlungsfähigkeit des Staates wird stattdessen durch eine Besteuerung, die Lebensmittelhändler und kleine Unternehmen bevorzugt gewährleistet."
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Gute und faire Infrastruktur ist unerlässlich, um eine demokratische Partizipation aller Bürger*innen zu  gewährleisten. Das Schüler*innen-W-lan existiert bereits und sollte genutzt werden."
+			},
+			"4": {
+				"selection": "b",
+				"statement": "Es liegt in der Zuständigkeit der Bürger*innen, so etwas durch Betriebsgründung zu gestallten. Sollte das der Wille des Volkes sein, so wird die PDF ihn nach Kräften unterstützen."
+			},
+			"5": {
+				"selection": "c",
+				"statement": "Die organisatorische Machbarkeit des Neudrucks erscheint uns nicht realisierbar. Ein staatliches Fundbüro wäre denkbar. Außerdem ist die PDF gegen einen Polizeistaat, in dem ein Ausweißverlust ernsthafte  Probleme bereitet."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Kulturförderung steht an 5. Stelle im PDF Parteiprogramm. Es ist uns wichtig, dass sich alle Bürger*innen in und außerhalb ihrer Arbeit selbst verwirklichen können und wir gemeinsam einen tollen Staat füreinander gestallten."
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Die Proletarisch Demokratische Freiheitspartei ist der festen Überzeugung, dass wir alle gemeinsam mehr erreichen können, als gegeneinander. Darum will sie einen Staat gestallten, in dem die unerschütterliche Solidarität aller Menschen untereinander an erster Stelle steht und niemand um seinen gerechten Anteil am Gemeinwohl betrogen wird."
+			}
+		},
+		"1": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "b",
+				"statement": "Die EUG fordert einen Mindestlohn, der aber nicht zu hoch ist."
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Dies ist einer der Hauptpunkte des Wahlprogramms der EUG."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "EUG fordert eine gesenkte Miete, will sie aber nicht komplett abschaffen."
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Die EUG fordert, dass kostenloses Internet für die Betriebe zu Verfügung gestellt werden, die es brauchen."
+			},
+			"4": {
+				"selection": "c",
+				"statement": "Die EUG ist überzeugt, dass dies das Event kaputt machen würde."
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Die EUG fordert, dass Ausweise bei Verlust günstiger ersetzt werden, aber nicht kostenlos, um zum Aufpassen anzuregen."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Die EUG will Freizeitangebote in Form von Platz und oder Räumen fördern."
+			},
+			"7": {
+				"selection": "c",
+				"statement": "Die EUG ist davon überzeugt: Kommunismus hat in der Geschichte meist zu Brutalen Diktaturen geführt und hat im allgemeinen nicht gut funktioniert. Daher lehnt sie jede Form von Kommunismus ab, ist aber für soziale Gerechtigkeit."
+			}
+		},
+		"3": {
+			"0": {
+				"selection": "b",
+				"statement": "Die SGP fordert zwar einen Mindestlohn, aber keinen so hohen, da sonst die Inflation zu hoch wäre."
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Die SGP sieht es als das gute Recht aller Bürgerrinnen und Bürger sich selbst entscheiden zu können, ob man mehrere Jobs gleichzeitig ausübt."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Die SGP möchte die Unternehmensgründung erleichtern, da Unternehmen wichtig für Wirtschaft, Lebensmittel und Kulturelle Angebote. Deswegen möchte sie die Miete senken."
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Die SGP will Zonen einrichten, in denen man am Handy sein darf und das WLAN nutzen darf."
+			},
+			"4": {
+				"selection": "b",
+				"statement": "Die SGP ist überzeugt, dass ein Gaming-Raum überfüllt wäre und die Bürger ablenken würde."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Die SGP will Ausweise kostengünstig ersetzen, aber nicht zu kostengünstig, da die Bürger trotzdem auf ihren Ausweis aufpassen sollen und lernen sollen, dass er eine große Bedeutung hat."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Die SGP will Freizeitangebote verstärkt fordern, um für unvergessliche Erlebnisse zu sorgen."
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			}
+		}
+	}
 }
