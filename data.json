@@ -57,6 +57,10 @@
 		"3": {
 			"name": "Sehr gute Partei",
 			"name_x": "SGP"
+		},
+		"4": {
+			"name": "Bündnis Soziales Netzwerk",
+			"name_x": "BSN"
 		}
 	},
 	"answers": {
@@ -194,6 +198,40 @@
 			"7": {
 				"selection": "a",
 				"statement": ""
+			}
+		},
+		"4": {
+			"0": {
+				"selection": "b",
+				"statement": "Die BSN fordert 2 warme Mahlzeiten, ist aber davon überzeugt, dass mehr zu einem zu hohen Mindestlohn führen würde, der zu eine Inflation verursachen würde."
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Die BSN ist davon überzeugt, dass Bürger dadurch in den Jobs zu viele Fehlzeiten hätten, was zu einer instabilen Wirtschaft führen würde."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Die BSN fordert eine gesenkte Miete, die aber nicht zu kostengünstig ist."
+			},
+			"3": {
+				"selection": "c",
+				"statement": "Die BSN ist davon überzeugt, dass man das Schule als Staat Event nicht die ganze Zeit am Handy verbringen sollte."
+			},
+			"4": {
+				"selection": "c",
+				"statement": "Die BSN ist davon überzeugt, dass ein Gaming Raum die Bürger zu sehr ablenken würde, wodurch diese ihre Arbeit vernachlässigen würden."
+			},
+			"5": {
+				"selection": "b",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Die BSN fordert kostenlose, allgemeine Veranstaltungen und ist davon überzeugt, dass diese das soziale Miteinander fördern würden."
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Die BSN ist davon überzeugt, dass weder Kommunismus, noch Kapitalismus jemals funktioniert hat."
 			}
 		}
 	}
